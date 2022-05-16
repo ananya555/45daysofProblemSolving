@@ -3,6 +3,8 @@
 
 class Solution {
 public:
+    
+    // Two Pointers Approach
     void sortColors(vector<int>& arr) {
         
         // DUTCH FLAG Approach
